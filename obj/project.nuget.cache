@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xq9JgbWkciu6skDoMHLdb2sAZPoxS5hdvS13fEmTOs189Sbuj59mAPjYD2u6A2YvFhlDO0N+ZvBi3J+iT5HhpA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\MiX telematics\\MixTelematics\\MixTelematics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\papin\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\papin\\.nuget\\packages\\accord.machinelearning\\3.8.0\\accord.machinelearning.3.8.0.nupkg.sha512",
+    "C:\\Users\\papin\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512",
+    "C:\\Users\\papin\\.nuget\\packages\\accord.statistics\\3.8.0\\accord.statistics.3.8.0.nupkg.sha512",
+    "C:\\Users\\papin\\.nuget\\packages\\mathnet.numerics\\4.9.1\\mathnet.numerics.4.9.1.nupkg.sha512",
+    "C:\\Users\\papin\\.nuget\\packages\\mathnet.spatial\\0.6.0\\mathnet.spatial.0.6.0.nupkg.sha512",
+    "C:\\Users\\papin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\papin\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\papin\\.nuget\\packages\\system.diagnostics.contracts\\4.3.0\\system.diagnostics.contracts.4.3.0.nupkg.sha512",
+    "C:\\Users\\papin\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
